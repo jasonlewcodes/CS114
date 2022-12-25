@@ -5,6 +5,6 @@ Project 1 (MazeProject.java) - Recursively traverses a maze. Start of maze is re
 
 Project 2 (SortedList.java) - Implements the data structure SortedList, a List whose elements are always sorted. Insert, remove, retrieve, and search methods are implemented.
 
-Project 3 (HeapSort.java) - Implements heap sort algorithm in O(nlog(n)) time.
+Project 3 (HeapSort.java) - Implements heap sort algorithm in O(n*log(n)) time.
 
 Project 4 (BinarySearchTree.java) - Implements the data structure BinarySearchTree. Insert, remove, and search methods are implemented.
